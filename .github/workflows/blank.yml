@@ -1,0 +1,11 @@
+{
+  "timestamp": "2024-01-15T09:00:00.000Z",
+  "count": 10,
+  "jokes": [
+    {
+      "type": "general",
+      "setup": "Why did the chicken cross the road?",
+      "punchline": "To get to the other side!"
+    }
+  ]
+}
